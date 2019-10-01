@@ -15,7 +15,7 @@ Die computer was gewoon niet meer ingelogd op one drive. Toen ze terug inlogden 
 In de namiddag heb ik nog een paar nieuwe laptops geüpdate en heb ik de rand van de verpakking gescand om ze te helpen met de inventarisering ervan.
 We zijn ook nog naar de bibliotheek geweest omdat er een video aansluiting voor een tweede scherm niet werkte. We hadden geprobeerde een nieuwe kabel in te steken en
 om het scherm te vervangen. Luc had daarna geprobeerd om de drivers te updaten maar we waren tot de conclusie gekomen dat er een probleem was met de aansluiting op de computer zelf.
-Voor derest van de dag heb ik aan taken gewerkt en gingen we problemen oplossen als ze er waren in de gemeente zelf.
+Voor derest van de dag heb ik aan taken gewerkt en gingen we problemen oplossen als die er waren in de gemeente zelf.
 
 
 
