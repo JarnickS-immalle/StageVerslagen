@@ -9,7 +9,7 @@ Ik had daarna een rondleiding gekregen van het gemeentehuis en hadden we daarna 
 Ik had ook nog een lijst met ip-adressen gekregen waar ik naar moest pingen met powershell om na te checken of we een antwoord kregen.
 Voor de laatste 2 uur van de dag heb ik gewoon aan schooltaken gewerkt.
 
-#2019-10-1
+# 2019-10-1
 
 
 
