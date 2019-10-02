@@ -21,6 +21,20 @@ Voor derest van de dag heb ik aan taken gewerkt en gingen we problemen oplossen 
 
 bib Rijkevorsel: https://www.rijkevorsel.be/vrije-tijd/bibliotheek-0
 
+# 2019-10-2
+Het was een vrij rustige dag vandaag. In de voormiddag waren we een oud kamertje met oude schermen, computers, kabels en dozen gaan verplaatsen.
+We waren de kabels aan het sorteren dat de juiste soort kabels bij elkaar zaten. Dan hebben we in de oude dozen wat zitten rond kijken om te kijken of er dingen inzaten
+die eventueel nog nuttig konden zijn. Maar buiten een paar schermen waren de meeste van die spullen te oud en onbruikbaar. In de namiddag waren we naar de bibliotheek
+om een probleem met de beamer na te kijken omdat hij het scherm van de laptop niet wouw laten zien. Er is morgen een presentatie daar dus het personeel daar was een beetje in paniek.
+mijn stagebegeleider had de stroomkabel eens uitgetrokken en terug ingestoken en het werkte wel daarna. De deuren van het jeugdhuis hebben een scanner en moet je een kaart scannen om binnen te kunnen.
+Maar het systeem van de scanner werkte niet en het personeel kon niet binnen. Dus waren wij eventjes gaan kijken maar er was niet veel dat we konden doen dus gaan ze gewoon moeten bellen
+naar het bedrijf van het systeem. 
+
+jeugdhuis: https://www.rijkevorsel.be/jh-de-wauwel-crew
+
+# 2019-10-3
+
+ 
 
 
 
