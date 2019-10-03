@@ -30,10 +30,12 @@ mijn stagebegeleider had de stroomkabel eens uitgetrokken en terug ingestoken en
 Maar het systeem van de scanner werkte niet en het personeel kon niet binnen. Dus waren wij eventjes gaan kijken maar er was niet veel dat we konden doen dus gaan ze gewoon moeten bellen
 naar het bedrijf van het systeem. 
 
-jeugdhuis: https://www.rijkevorsel.be/jh-de-wauwel-crew
+jeugdhuis: https://www.rijkevorsel.be/jh-de-wauwel-crews	
 
 # 2019-10-3
-
+De machine die gebruikt wordt voor identiteitskaarten enz. te scannen en aan te maken moest opnieuw geïnstalleerd worden. Dat hebben wij bijna heel
+de voormiddag gedaan omdat het een process was dat wel vrij veel tijd in beslag nam. In de namiddag was er een vergadering over Informatica en communicatie en
+daar mocht ik bij gaan zitten om te zien hoe dat in zen werking wat wel vrij interessant was. 
  
 
 
