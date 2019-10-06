@@ -35,8 +35,14 @@ jeugdhuis: https://www.rijkevorsel.be/jh-de-wauwel-crews
 # 2019-10-3
 De machine die gebruikt wordt voor identiteitskaarten enz. te scannen en aan te maken moest opnieuw geïnstalleerd worden. Dat hebben wij bijna heel
 de voormiddag gedaan omdat het een process was dat wel vrij veel tijd in beslag nam. In de namiddag was er een vergadering over Informatica en communicatie en
-daar mocht ik bij gaan zitten om te zien hoe dat in zen werking wat wel vrij interessant was. 
- 
+daar mocht ik bij gaan zitten om te zien hoe dat in zen werking wat wel vrij interessant was. Mijn stagementor had op de oude server een map met allemaal foto's die hij
+een paar weken geleden had gekopieerd op de nieuwe server. Ik had als opdracht om de mappen met elkaar te vergelijken om te zien of al de foto's er wel waren.
+Dus had ik een programma geïnstalleerd (Winmerge) om dat de doen maar die map bevat bijna 500 gb aan foto's. Dus dat duurt wel eventjes.
+
+# 2019-10-4
+Al de mappen vergelijken was deze morgend nog altijd niet klaar. Dat was toen al bijna 12 uur bezig. Toen dat het eindelijk klaar was heb ik dan al de mappen die niet
+hetzelfde waren heb ik dan gelijk aan elkaar moeten maken. Daarna hebbben wij het logon script nagekeken. Verder is er niet echt veel gebeurd vandaag omdat hier op vrijdag het maar
+een halve dag is en om half 1 ik hier door mocht gaan.
 
 
 
